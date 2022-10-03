@@ -6,3 +6,5 @@ function sum(a, b) {
 function App() {
   return sum(5, 8);
 }
+
+export default App;
